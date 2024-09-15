@@ -2,6 +2,7 @@
   <div class="home-body-section">
     <div class="about-section">
       <div class="about-header">About</div>
+
       <div class="about-body-section">
         <div class="single-line-about">
           <div class="image-section">
@@ -11,7 +12,7 @@
               class="image-icon python-icon"
             />
           </div>
-          Learn Python from scratch.
+          Aprenda Python do zero.
         </div>
         <div class="single-line-about">
           <div class="image-section">
@@ -21,7 +22,7 @@
               class="image-icon"
             />
           </div>
-          Redefines interactive learning
+          Redefine a aprendizagem interativa
         </div>
         <div class="single-line-about">
           <div class="image-section">
@@ -31,7 +32,7 @@
               class="image-icon"
             />
           </div>
-          Designed with care for beginners
+          Projetado com cuidado para iniciantes
         </div>
       </div>
     </div>
